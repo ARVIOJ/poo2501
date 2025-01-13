@@ -2,7 +2,7 @@
 Practica de programacion orientada a objetos Trainibit 
 Actualizacion de readme
 
-Cambio 3 desde local
+Cambio 4 (desde github) desde local
 
 4 pilares de POO
 
